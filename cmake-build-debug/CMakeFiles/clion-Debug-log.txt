@@ -1,0 +1,4 @@
+C:\Users\Dean\AppData\Local\JetBrains\Toolbox\apps\CLion\ch-0\231.9011.31\bin\cmake\win\x64\bin\cmake.exe -DCMAKE_BUILD_TYPE=Debug -DCMAKE_MAKE_PROGRAM=C:/Users/Dean/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-0/231.9011.31/bin/ninja/win/x64/ninja.exe -G Ninja -S D:\development\cpp\courses\learn-advanced-modern-cpp\GameOfLife -B D:\development\cpp\courses\learn-advanced-modern-cpp\GameOfLife\cmake-build-debug
+-- Configuring done
+-- Generating done
+-- Build files have been written to: D:/development/cpp/courses/learn-advanced-modern-cpp/GameOfLife/cmake-build-debug

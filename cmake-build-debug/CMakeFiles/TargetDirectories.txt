@@ -1,0 +1,3 @@
+D:/development/cpp/courses/learn-advanced-modern-cpp/GameOfLife/cmake-build-debug/CMakeFiles/GameOfLife.dir
+D:/development/cpp/courses/learn-advanced-modern-cpp/GameOfLife/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/development/cpp/courses/learn-advanced-modern-cpp/GameOfLife/cmake-build-debug/CMakeFiles/rebuild_cache.dir
